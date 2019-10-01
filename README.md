@@ -1,0 +1,2 @@
+# EstructuraLogicaDiscoDuro
+Tarea de investigacion
